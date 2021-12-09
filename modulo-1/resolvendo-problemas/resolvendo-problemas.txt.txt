@@ -1,0 +1,13 @@
+o primeiro passo a ser seguido é; Ter Atenção no enunciado ou seja, é necesárrio que se entenda a proposta através do enunciado lendo-o com atenção. Aqui a identificação de informações essenciais pra toda a formulação, será resgatada. 
+
+o segundo passo é; Retirar informações relevantes, após a compreensão da proposta, vem a primeira organoização. Aqui, separa-se palavras chaves como nome de variáveis, os verbos criarão funções e todas as condições, regras e funcionalidade. Aqui tranformamos o enunciado através da nossa linguagem de programação. 
+
+o terceiro passo é; Pensar entradas e saídas, qual será o "objetivo" do código e quais perguntas ele se propõe a responder, criar, organizar. Identificação de quais dados serão recebidos e através disso, quais as "saídas" (respostas).
+
+o quarto passo é; Fazer um esquema visual através de fluxogramas ou até mesmo tópicos como uma forma visual de organização da funcionalidade do código. Entender como conseguimos emplementar o algorítimo para aplicar a sequência de passos.
+
+o quinto passo é; Criar código feio o que não significa "desleixado", mas onde a performance não é o foco principal e sim, a primeira esquematição/motagem e implementação do algorítimo no mesmo. Aqui onde testa-se as possíveis soluções 
+
+o sexto passo é; Testar força bruta, aqui é a parte experimental de fato, onde colocamos "a prova" a funcionalidade do nosso código sempre visando a melhora (melhora e não a perfeição). 
+
+e o último e sétimo é; Refatorar, organizar as nossas variáveis e funções dando bons nomes a elas, separar as funções de cada elemento começando com as etapas principais. Deixando-o mais legível e melhorando sua funcionalidade.
